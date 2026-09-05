@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Cuptu</title>
+  <desc id="desc">Cuptu profile heading</desc>
+  <style>
+    .heading { fill: #1f2328; }
+    @media (prefers-color-scheme: dark) { .heading { fill: #f0f6fc; } }
+  </style>
+  <text class="heading" x="0" y="47" text-anchor="start" font-family="Segoe UI, Segoe UI Emoji, Arial, sans-serif" font-size="32" font-weight="600">Hi, I'm <tspan fill="#0188FB">Cuptu</tspan> 👋</text>
+</svg>
