@@ -1,13 +1,14 @@
-![Hi, I'm Cuptu](./assets/profile-heading.svg)
+# Hi, I'm Cuptu (=・ω・=)ノ
 
 I'm a full-stack developer interested in cross-platform applications, graphics rendering, and practical developer tools.
 
 ### About Me
 
-- 💻 Building full-stack and cross-platform applications across desktop, web, and developer tooling
-- 🖥️ Focused on consistent development and user experiences across Windows, Linux, and macOS
-- 🧩 Interested in Qt, cross-platform technologies, OpenGL, and real-time rendering
-- 🌱 Currently learning algorithms and UI design
+- Building full-stack and cross-platform applications across desktop, web, and developer tooling
+- Developing Minecraft mods and Paper plugins with Kotlin
+- Focused on consistent development and user experiences across Windows, Linux, and macOS
+- Interested in Qt, cross-platform technologies, OpenGL, and real-time rendering
+- Currently learning algorithms and UI design
 
 Thanks for visiting!
 
@@ -15,7 +16,7 @@ Thanks for visiting!
 
 ### Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=avaloniaui&logoColor=white)![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=avaloniaui&logoColor=white)![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Tools
 
