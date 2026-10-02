@@ -1,4 +1,4 @@
-# Hi, I'm Cuptu (=・ω・=)ノ
+# I'm Cuptu，Ciallo～(∠・ω< )⌒★
 
 I'm a full-stack developer interested in cross-platform applications, graphics rendering, and practical developer tools.
 
