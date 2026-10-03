@@ -2,6 +2,8 @@
 
 I'm a full-stack developer interested in cross-platform applications, graphics rendering, and practical developer tools.
 
+<img align="right" src="./assets/peek.webp" width="160" alt="peeking mascot" />
+
 ### About Me
 
 - Building full-stack and cross-platform applications across desktop, web, and developer tooling
@@ -11,6 +13,8 @@ I'm a full-stack developer interested in cross-platform applications, graphics r
 - Currently learning algorithms and UI design
 
 Thanks for visiting!
+
+<br clear="both" />
 
 ---
 
