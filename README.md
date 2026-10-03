@@ -2,7 +2,7 @@
 
 I'm a full-stack developer interested in cross-platform applications, graphics rendering, and practical developer tools.
 
-<img align="right" src="./assets/peek.webp" width="135" alt="peeking mascot" />
+<img align="right" src="./assets/peek.webp" width="115" alt="peeking mascot" />
 
 ### About Me
 
